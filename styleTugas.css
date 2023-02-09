@@ -1,0 +1,276 @@
+html{
+  height: 100%;
+}
+
+body{
+ background-color:  rgba(249, 252, 251, 0.88);
+ font-family: 'Lato', sans-serif;
+}
+head{
+  font-family:  'Lato', sans-serif;
+}
+
+nav{
+  padding-left: 200px;
+  padding-right: 100px;
+}
+
+.nav-link{
+  font-weight: bold;  
+  font-size: 22px;
+}
+
+.kotak-kuning{
+  min-height: 100vh;
+  width: 400px;
+  background: #FFE268;
+  top: 0px;
+  box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.25);
+  border-radius: 0px 20px 20px 0px;
+}
+
+.icon1{
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 80px;
+  top: 216px;
+}
+
+.kotak-kuning p {
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 38px;
+color: #000000;
+}
+
+a{
+  text-decoration: none;
+}
+
+.icon2{
+position: absolute;
+width: 40px;
+height: 40px;
+left: 80px;
+top: 296px;
+}
+
+.icon3{
+position: absolute;
+width: 40px;
+height: 40px;
+left: 80px;
+top: 376px;
+}
+
+.icon4{
+position: absolute;
+width: 40px;
+height: 40px;
+left: 80px;
+top: 456px;
+}
+
+.icon5{
+  position: absolute;
+width: 40px;
+height: 40px;
+left: 80px;
+top: 536px;
+}
+
+.p-profil{
+  position: absolute;
+width: 77px;
+height: 38px;
+left: 130px;
+top: 217px;
+}
+
+.p-tugas{
+  position: absolute;
+width: 78px;
+height: 38px;
+left: 130px;
+top: 296px;
+}
+
+.p-riwayat{
+  position: absolute;
+width: 108px;
+height: 38px;
+left: 130px;
+top: 377px;
+}
+
+.p-statistik{
+  position: absolute;
+width: 109px;
+height: 38px;
+left: 130px;
+top: 457px;
+}
+
+.p-review{
+  position: absolute;
+width: 100px;
+height: 38px;
+left: 130px;
+top: 537px;
+}
+
+.side-user{
+  position: absolute;
+width: 100px;
+height: 100px;
+left: 68px;
+top: 66px;
+}
+
+.side-name{
+  position: absolute;
+width: 149px;
+height: 29px;
+left: 180px;
+top: 102px;
+}
+
+.side-name p {
+  font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+}
+
+.kotak-buat-tugas{
+  position: absolute;
+width: 220px;
+height: 60px;
+left: 90px;
+top: 884px;
+
+background: #F9FCFB;
+}
+
+.p-buat-tugas{
+  position: absolute;
+left: 42px;
+top: 13px;
+}
+.p-buat-tugas p{
+  font-family: Lato;
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+color: black;
+}
+
+.judul-konten{
+  position: absolute;
+width: 86px;
+height: 43px;
+left: 1077px;
+top: 109px;
+}
+
+.judul-konten p{
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 43px;
+}
+
+.konten{
+  position: absolute;
+width: 600px;
+height: 606px;
+left: 623px;
+top: 239px;
+}
+
+.konten-profile{
+  position: absolute;
+width: 100px;
+height: 100px;
+left: 450px;
+}
+
+.container .button {
+    background-color: #FFE268;
+
+}
+
+.container {
+    left: 200px;
+    top: 160px;
+    position: absolute;
+    height: 600px;
+    width: 640px;
+}
+.container form {
+    font-family: Lato;
+    font-style: normal;
+}
+
+.container .judul {
+    font-style: Bold;
+    font-size: 36px;
+}
+
+.container .deskripsi {
+    font-style: normal;
+    font-size: 16px;
+}
+
+.container form button {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border: 0px;
+}
+
+table{
+  text-align: center;
+  
+}
+
+table a button{
+
+border: 0px;  
+position: relative;
+width: 100px;
+height: 32px;
+
+background: #1BB45C;
+border-radius: 5px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #F9FCFB;
+}
+
+.second {
+  background: rgba(6, 43, 110, 0);
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 8px;
+  font-family: 'Lato';
+  margin: 5px;
+  text-transform: uppercase;
+  cursor: pointer;
+  outline: none;
+}
